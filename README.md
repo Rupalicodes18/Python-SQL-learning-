@@ -1,11 +1,19 @@
 Python & SQL Learning Journey 🐍
 
-Welcome to my repository! This is where I store my code and projects for 
-Class 12 Informatics Practices.
+This repository contains my initial projects as I build consistency and improve my coding skills step by step.
+📌 Projects
+1. 7 Days Consistency
+This project focuses on building a daily coding habit.
+It is based on the idea of staying consistent and improving regularly.
 
-What's inside:
-Python Scripts:Basic logic, loops, and functions.
-SQL Queries:Database management.
-Projects:Small real-world applications. 
-Working towards JEE/IAT 2027 while coding on the side.
+2. Online Store SQL
+This project is a simple database of an online store.
+It includes:
+Customers
+Products
+Orders
+Concepts used:
+JOIN
+GROUP BY
+Aggregate functions
 
