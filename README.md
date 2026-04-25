@@ -17,7 +17,7 @@ JOIN
 GROUP BY
 Aggregate functions
 
-3.Prime Number Checker
+3. Prime Number Checker
 A simple Python program to check whether a number is prime or not.
 Concepts used:
 Loops (for)
