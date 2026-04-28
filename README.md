@@ -25,4 +25,5 @@ break & for-else.
 
 4. Task master:A simple Python script to manage daily tasks with local file storage.
 
+5. Quadratic Equation Solver:A lightweight Python utility to calculate the roots of a quadratic equation using the cmath library. This solver handles real, repeated, and complex roots seamlessly.
 
