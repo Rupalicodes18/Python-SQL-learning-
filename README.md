@@ -29,3 +29,4 @@ break & for-else.
 
 6. Quadratic Solver & Logger:A Python-based utility that not only solves quadratic equations (including complex roots) but also maintains a permanent history of your calculations.
 
+7. Login script:A basic authenticated login script that demonstrates the use of nested if-else statements in Python.
