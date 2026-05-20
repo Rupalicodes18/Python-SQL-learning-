@@ -29,6 +29,38 @@ A structured repository tracking my progressive transition from functional Pytho
 ### ⏱️ 4. Habit & Architecture Systems (Hello.py & Samples)
 * **7-Days Consistency Initiative:** A dedicated execution workflow focused on tracking agile habits, debugging runtime behaviors, and deploying iterative code daily.
 
+### 👁️ Project: Lucid Horizon (Minimalist Simulation RPG)
+
+A lightweight, text-based psychological thriller game built using core Python fundamentals. Inspired by mind-bending cinematic masterpieces like *Vanilla Sky*, *Eyes Wide Shut*, and *The Conspiracy*.
+
+---
+
+* **Game Concept**
+You wake up in an artificial reality matrix. A mysterious masked handler tests your cognitive awareness using deep, philosophical paradoxes. Your goal is to keep your neural health stable, decode the system patterns, and acquire the decryption key required to shatter the loop and wake up in the real world.
+
+---
+
+* **Coding Concepts Demonstrated**
+This repository showcases how clean, readable logic can create an immersive narrative without bloated codebases:
+* **State Management:** Tracking dynamic variables like Neural HP (`hp`), Mental Clarity (`clarity`), and the player's `inventory` list.
+* **Input Sanitization:** Implementing `.lower().strip()` parsing to ensure user choices don't break due to accidental trailing spaces or case differences.
+* **Conditional Branching:** Structuring `if-else` blocks to create immediate consequences for tactical choices.
+
+---
+
+* **Quick Start (How to Play)**
+
+### For Mobile Users (Pydroid 3):
+1. Copy the complete source code from `main.py`.
+2. Open your **Pydroid 3** Android app.
+3. Paste the code into a fresh editor tab and click the **Yellow Play Icon**.
+
+### For PC/Terminal Users:
+1. Clone this repository to your local directory:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git](https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git)
+   
+
 ---
 
 ## 🛠️ Execution & Environment
