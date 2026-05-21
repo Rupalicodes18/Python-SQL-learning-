@@ -43,6 +43,8 @@ This repository showcases how clean, readable logic can create an immersive narr
 * **Input Sanitization:** Implementing `.lower().strip()` parsing to ensure user choices don't break due to accidental trailing spaces or case differences.
 * **Conditional Branching:** Structuring `if-else` blocks to create immediate consequences for tactical choices.
 
+---
+
 * **Quick Start (How to Play)**
 
 * **For Mobile Users (Pydroid 3):**
