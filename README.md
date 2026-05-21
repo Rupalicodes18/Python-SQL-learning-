@@ -22,7 +22,7 @@ A structured repository tracking my progressive transition from functional Pytho
 * **TaskMaster System Engine (Todo.py):** A lightweight workflow automation tool that interfaces directly with local disk file management systems to securely save and load tasks persistently.
 
 ### 🧮 3. Algorithmic Math Engines
-* **Quadratic Solver Core (Quadratic_Solv.py & Solver.py):** Advanced computing scripts engineered using the native cmath library to systematically calculate real, repeating, and complex numbers seamlessly.
+* **Quadratic Solver Core (Quadratic_Solver.py & Solver.py):** Advanced computing scripts engineered using the native cmath library to systematically calculate real, repeating, and complex numbers seamlessly.
 * **Calculation History Logger:** Modifies basic arithmetic engines by writing execution logs directly into permanent data streams so users can check calculation history.
 * **High-Efficiency Prime Engine (Prime.py):** A performance-tuned number evaluator utilizing structural optimizations (for-else and short-circuit break statements) to isolate prime integer structures quickly.
 
