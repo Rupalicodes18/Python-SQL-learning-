@@ -69,15 +69,15 @@ A lightweight, terminal-based encryption and decryption tool built entirely in P
 
 ## How the Core Logic Works
 
-```text
+```
 Plaintext Letter  :   H   E   L   L   O
 Shift Factor (+3) :  +3  +3  +3  +3  +3
 Ciphertext Code   :   K   H   O   O   R
-
+```
 
 ---
 
-## 🛠️ Execution & Environment
+### 🛠️ Execution & Environment
 Every utility inside this repository is optimized for standalone terminals. Relational structures are written to work with localized internal database engines like SQLite3, making them fully operational inside mobile interpreters like Pydroid 3.
 
 1. Navigate to your repository directory.
