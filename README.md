@@ -55,14 +55,14 @@ This repository showcases how clean, readable logic can create an immersive narr
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git](https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git)
 
-# 🔐 CyberShield: Minimal Caesar Cipher Engine
+### 🔐 CyberShield: Minimal Caesar Cipher Engine
 
 A lightweight, terminal-based encryption and decryption tool built entirely in Python. It utilizes the classic **Caesar Cipher** algorithm to encode and decode text securely without any external dependencies.
 
-## Project Overview
+# Project Overview
 **CyberShield** takes any standard string input (like personal journal entries or secret notes) and shifts the alphabets dynamically by a set key factor ($+3$ positions for encryption and $-3$ positions for decryption). Non-alphabetic characters like spaces, punctuation marks, and numbers remain completely untouched to preserve structural formatting.
 
-### Key Coding Features
+# Key Coding Features
 * **ASCII Value Manipulation:** Uses Python's native `ord()` and `chr()` mathematical engines to handle shift mechanics precisely.
 * **Case Preservation:** Dynamically handles both uppercase (`A-Z`) and lowercase (`a-z`) characters without converting the entire message into a single case.
 * **Input Validation:** Uses `.isalpha()` conditional filtering to block numeric errors during computation string building.
