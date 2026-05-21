@@ -45,12 +45,12 @@ This repository showcases how clean, readable logic can create an immersive narr
 
 * **Quick Start (How to Play)**
 
-### For Mobile Users (Pydroid 3):
+* **For Mobile Users (Pydroid 3):**
 1. Copy the complete source code from `main.py`.
 2. Open your **Pydroid 3** Android app.
 3. Paste the code into a fresh editor tab and click the **Yellow Play Icon**.
 
-### For PC/Terminal Users:
+* **For PC/Terminal Users:**
 1. Clone this repository to your local directory:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git](https://github.com/YOUR_USERNAME/Project-Lucid-Horizon.git)
@@ -59,11 +59,11 @@ This repository showcases how clean, readable logic can create an immersive narr
 
 A lightweight, terminal-based encryption and decryption tool built entirely in Python. It utilizes the classic **Caesar Cipher** algorithm to encode and decode text securely without any external dependencies.
 
-* **Project Overview**
-*CyberShield** takes any standard string input (like personal journal entries or secret notes) and shifts the alphabets dynamically by a set key factor ($+3$ positions for encryption and $-3$ positions for decryption). Non-alphabetic characters like spaces, punctuation marks, and numbers remain completely untouched to preserve structural formatting.
+* **Project Overview:**
+*CyberShield* takes any standard string input (like personal journal entries or secret notes) and shifts the alphabets dynamically by a set key factor ($+3$ positions for encryption and $-3$ positions for decryption). Non-alphabetic characters like spaces, punctuation marks, and numbers remain completely untouched to preserve structural formatting.
 
-* **Key Coding Features**
-*ASCII Value Manipulation:** Uses Python's native `ord()` and `chr()` mathematical engines to handle shift mechanics precisely.
+* **Key Coding Features:**
+*ASCII Value Manipulation:* Uses Python's native `ord()` and `chr()` mathematical engines to handle shift mechanics precisely.
 * **Case Preservation:** Dynamically handles both uppercase (`A-Z`) and lowercase (`a-z`) characters without converting the entire message into a single case.
 * **Input Validation:** Uses `.isalpha()` conditional filtering to block numeric errors during computation string building.
 
