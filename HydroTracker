@@ -1,0 +1,29 @@
+def plan_study_hydration():
+    print("\n" + "="*30)
+    print("    HYDRO STUDY TRACKER    ")
+    print("="*30)
+    
+    try:
+        hours = float(input("\nEnter total hours you plan to study today: "))
+        
+        # Logic: 1 Short break every 45 mins (0.75 hours)
+        total_breaks = int((hours * 60) // 45)
+        # Target: ~250ml water per break session
+        total_water_ml = total_breaks * 250
+        
+        print("\n" + "-"*30)
+        print(f"Total Study Window : {hours} Hours")
+        print(f"Recommended Breaks : {total_breaks} Short Breaks (Every 45m)")
+        print(f"Hydration Target   : {total_water_ml} mL total ({total_water_ml/1000:.2f} Liters)")
+        print("-"*30)
+        
+        print("\nTip: Keep a 1-liter bottle on your desk before starting.")
+        print("Note: Take a glass of water and deep breaths during every break.")
+        
+    except ValueError:
+        print("\nError: Please enter a valid number for hours!")
+        
+    print("\n" + "="*30 + "\n")
+
+if __name__ == "__main__":
+    plan_study_hydration()
