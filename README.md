@@ -84,3 +84,13 @@ Every utility inside this repository is optimized for standalone terminals. Rela
 
 1. Navigate to your repository directory.
 2. Run your targeted script using standard python execution commands.
+
+
+# HydroStudy-Tracker
+* **A dead-simple CLI tool for students to calculate study breaks and hydration targets during long preparation sessions.**
+
+* **Usage**
+```
+bash
+python hydroTracker
+```
